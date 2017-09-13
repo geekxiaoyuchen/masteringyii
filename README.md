@@ -1,7 +1,7 @@
 # 《精通Yii框架》
 ## 一、项目概述
 ### （一）灵感来源
-近段时间，一直在学习Yii框架，读了一些英文资料，其中有一本[《Mastering Yii》](https://www.masteringyii.com)，写的非常棒，所以想把这本书翻译成中文，算是自己阅读的笔记，也可以帮到更多的中文Yii开发者。
+近段时间，一直在学习Yii框架，读了一些英文资料，其中有一本[《Mastering Yii》](https://www.masteringyii.com)，写的非常棒，所以想把这本书翻译成中文，算是自己阅读学习笔记，也可以帮到更多的中文Yii开发者。
 
 
 ### （二）翻译原则
@@ -15,7 +15,8 @@
 因为是业余时间做这件事，所以，更新的频率不会高，初步定为每周更新1个小节，后面如果时间允许可以加快速度。
 
 ## 二、目录
-* ### [第一章：Composer,配置,类,路径别名](/Chapt01/)
+* ### [第一章：Composer,配置,类,路径别名](Chapt01/README.md)
+  - [Composer](Chapt01/chapt01-01-Composer.md)
 
 Happy Hacking! :)
 
